@@ -1,4 +1,4 @@
-Open chrome-->go to menu-->tools-->extensions
+Open chrome-->go to menu-->tools-->extensions-->
 click Developer mode-->load unpacked extension-->load the entire file
 
 To use this extension, please use your mouse to select a paragraph in the webpage. 
@@ -11,3 +11,4 @@ Credits:
 lexer.js is from an opensource project jspos.This file is used to tokenize the sentences
 http://developer.wordnik.com/docs.html#!/word/getDefinitions_get_2 is used to get dicitionary defitnion
 http://text-processing.com/docs/ is used to find part of speech of target word.
+jQuery is an opensource project too.
