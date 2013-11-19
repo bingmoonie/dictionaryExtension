@@ -8,7 +8,7 @@ If you are tired of this program, you can remove it from the extension or preven
 
 
 Credits:
-lexer.js is from an opensource project jspos.This file is used to tokenize the sentences
+lexer.js and lexion.js_ is from an opensource project jspos.This file is used to tokenize the sentences
 http://developer.wordnik.com/docs.html#!/word/getDefinitions_get_2 is used to get dicitionary defitnion
 http://text-processing.com/docs/ is used to find part of speech of target word.
 jQuery is an opensource project too.
